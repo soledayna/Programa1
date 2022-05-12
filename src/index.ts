@@ -14,6 +14,6 @@ btnEnviar.addEventListener("click", () => {
   if (numero1 > numero2) {
     console.log("El mayor es: " + numero1 + ", osea el primero");
   } else {
-    console.log("El mayor es: " + numero2);
+    console.log("El mayor es: " + numero2 + ", osea el segundo");
   }
 });
